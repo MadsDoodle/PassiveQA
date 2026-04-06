@@ -1,0 +1,38 @@
+# Core
+torch>=2.1.0
+transformers>=4.40.0
+peft>=0.10.0
+trl>=0.8.6
+accelerate>=0.29.0
+datasets>=2.18.0
+bitsandbytes>=0.43.0
+
+# Knowledge Graph
+networkx>=3.2
+spacy>=3.7
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+
+# Embeddings & Retrieval
+sentence-transformers>=2.6
+faiss-cpu>=1.7.4
+
+# BM25
+rank-bm25>=0.2.2
+nltk>=3.8
+
+# Data & Utilities
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+tqdm>=4.65
+ipywidgets>=8.0
+
+# Visualisation
+matplotlib>=3.7
+pyvis>=0.3
+
+# HuggingFace Hub
+huggingface-hub>=0.21
+
+# Optional: flash attention (install separately for speed)
+# flash-attn>=2.4.0  # pip install flash-attn --no-build-isolation
