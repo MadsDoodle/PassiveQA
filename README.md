@@ -7,7 +7,7 @@
   <img src="assets/model_arch.png" alt="PassiveQA Pipeline" width="850"/>
 </p>
 
-[![arXiv](https://img.shields.io/badge/arXiv-PassiveQA-b31b1b)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-PassiveQA-b31b1b)](https://arxiv.org/abs/2604.04565)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Model-Moodlerz/mistral--planner--aaqa-yellow)](https://huggingface.co/Moodlerz/mistral-planner-aaqa)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
